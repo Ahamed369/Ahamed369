@@ -36,7 +36,7 @@ learning modern software engineering practices.
 <br/>
 
 <!-- ========================================================= -->
-<!--                         SOCIALS                           -->
+<!--                         SOCIALS                            -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -103,194 +103,38 @@ learning modern software engineering practices.
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-<h3>🚀 Who Am I?</h3>
-
+<p>
 I'm <strong>Mr. Ahamed</strong>, a <strong>Computer Science Undergraduate</strong> and <strong>Full-Stack Developer</strong> who enjoys turning ideas into practical, scalable and secure software.
+</p>
 
-I am passionate about understanding how software works from the frontend interface all the way to backend services, databases, infrastructure and deployment.
-
-I enjoy learning by building real projects, experimenting with modern technologies and continuously improving my engineering practices.
-
-<br/>
-
-<h3>🧠 My Approach</h3>
-
-I believe good software is not only about writing code.
-
-It is about:
-
-<strong>Understanding → Designing → Building → Testing → Securing → Deploying → Improving</strong>
-
-<br/>
-
-<h3>🎯 My Goal</h3>
-
-My current goal is to grow into a strong <strong>Software Engineer</strong> by gaining practical industry experience, contributing to meaningful projects and continuously improving my technical and problem-solving abilities.
-
-</td>
-
-<td width="40%" valign="top">
-
-<h3>⚡ Quick Profile</h3>
-
-| | |
-|---|---|
-| 🎓 | Computer Science Undergraduate |
-| 💻 | Full-Stack Developer |
-| 🚀 | Aspiring Software Engineer |
-| 🌐 | Web & Backend Development |
-| ☁️ | Cloud & DevOps Explorer |
-| 🔐 | Cybersecurity Enthusiast |
-| 🧠 | System Design Learner |
-| 🤝 | Open to Collaboration |
-| 💼 | Open to Internships |
-| 🌱 | Always Learning |
-
-</td>
-
-</tr>
-</table>
+<p>
+I enjoy exploring software from the frontend to backend services, databases, infrastructure and deployment while continuously improving my engineering skills through real-world projects.
+</p>
 
 </div>
 
-<br/>
+### ⚡ Quick Profile
 
-<!-- ========================================================= -->
-<!--                      ABOUT ME HIGHLIGHTS                    -->
-<!-- ========================================================= -->
+- 🎓 <strong>Computer Science Undergraduate</strong>
+- 💻 <strong>Full-Stack Developer</strong>
+- 🚀 <strong>Aspiring Software Engineer</strong>
+- 🌐 <strong>Web & Backend Development</strong>
+- 🗄️ <strong>Database & API Development</strong>
+- 🧩 <strong>Software Architecture & System Design</strong>
+- ☁️ <strong>Cloud & DevOps Explorer</strong>
+- 🔐 <strong>Cybersecurity Enthusiast</strong>
+- 🧠 <strong>Problem-Solving Mindset</strong>
+- 🤝 <strong>Open to Collaboration</strong>
+- 🌱 <strong>Always Learning & Building</strong>
 
-<div align="center">
+### 🧠 Why I Build
 
-<table>
-<tr>
+> I believe good software is not just about writing code.  
+> It is about understanding the problem, thinking deeply, designing thoughtfully, building reliably, securing responsibly and continuously improving.
 
-<td align="center" width="25%">
+### 🎯 My Goal
 
-### 🎓
-
-<strong>LEARN</strong>
-
-Computer Science  
-Software Engineering  
-System Design
-
-</td>
-
-<td align="center" width="25%">
-
-### 🏗️
-
-<strong>BUILD</strong>
-
-Web Applications  
-APIs  
-Backend Systems
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔐
-
-<strong>SECURE</strong>
-
-Secure Coding  
-Application Security  
-Cybersecurity
-
-</td>
-
-<td align="center" width="25%">
-
-### 📈
-
-<strong>IMPROVE</strong>
-
-Performance  
-Architecture  
-Engineering Practices
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
-<!--                     CAREER DIRECTION                       -->
-<!-- ========================================================= -->
-
-## 🎯 Career Direction
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 💻 Software Engineering
-
-Full-Stack Development
-
-Backend Engineering
-
-REST APIs
-
-GraphQL
-
-System Design
-
-Clean Architecture
-
-</td>
-
-<td width="33%" align="center">
-
-### ☁️ Cloud & DevOps
-
-Cloud Computing
-
-Linux
-
-Docker
-
-Kubernetes
-
-CI/CD
-
-Infrastructure
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔐 Security
-
-Cybersecurity
-
-Secure Software
-
-Application Security
-
-Secure APIs
-
-Security Fundamentals
-
-</td>
-
-</tr>
-</table>
-
-</div>
+> To grow into a strong <strong>Software Engineer</strong> by gaining practical industry experience, contributing to meaningful projects and continuously improving my technical and problem-solving abilities.
 
 <br/>
 
@@ -305,34 +149,6 @@ Security Fundamentals
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-11D452?style=for-the-badge&labelColor=102216" alt="Open to Internships"/>
 
 <br/><br/>
-
-<table>
-<tr>
-
-<td align="center">
-<b>🎓 Education</b><br/>
-Computer Science Undergraduate
-</td>
-
-<td align="center">
-<b>💻 Target Role</b><br/>
-Software Engineering Intern
-</td>
-
-<td align="center">
-<b>🚀 Interests</b><br/>
-Full-Stack / Backend
-</td>
-
-<td align="center">
-<b>🤝 Availability</b><br/>
-Open to Opportunities
-</td>
-
-</tr>
-</table>
-
-<br/>
 
 <p>
 <strong>📩 I am actively looking for internship opportunities where I can learn, contribute, collaborate and grow as a software engineer.</strong>
@@ -357,37 +173,31 @@ Open to Opportunities
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🌐 Web & Software
+### 🌐 Applications
 
-- Full-Stack Web Applications
-- Responsive Web Interfaces
-- REST APIs
-- Backend Services
-- Database Applications
-- Authentication Systems
-- Business Applications
-- Developer Tools
-- Data-Driven Applications
-- Secure Applications
+<p>
+🖥️ Full-Stack Web Apps<br/>
+⚙️ Backend Services & APIs<br/>
+🗄️ Database-Driven Systems<br/>
+🔐 Authentication & Secure Apps<br/>
+📊 Data-Driven Applications
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### ☁️ Engineering & Infrastructure
+### ☁️ Engineering
 
-- Cloud-Ready Applications
-- Containerized Applications
-- CI/CD Pipelines
-- Linux-Based Systems
-- Distributed Systems
-- Automation
-- API Infrastructure
-- Deployment Workflows
-- Monitoring Concepts
-- Scalable Systems
+<p>
+☁️ Cloud-Ready Applications<br/>
+🐳 Containerized Systems<br/>
+🔄 CI/CD & Automation<br/>
+📈 Scalable Architectures<br/>
+🚀 Reliable Deployment Workflows
+</p>
 
 </td>
 
@@ -430,21 +240,15 @@ Open to Opportunities
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 
-<img src="https://img.shields.io/badge/Nuxt-102216?style=for-the-badge&logo=nuxtdotjs&logoColor=11D452" alt="Nuxt"/>
-
 <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
 
 <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"/>
 
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
 
-<img src="https://img.shields.io/badge/D3.js-102216?style=for-the-badge&logo=d3dotjs&logoColor=11D452" alt="D3.js"/>
-
 <img src="https://img.shields.io/badge/Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white" alt="Preact"/>
 
 <img src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white" alt="Lit"/>
-
-<img src="https://img.shields.io/badge/SolidJS-102216?style=for-the-badge&logo=solidjs&logoColor=11D452" alt="SolidJS"/>
 
 <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
 
@@ -479,8 +283,6 @@ Open to Opportunities
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
 
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-
-<img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno"/>
 
 </p>
 
@@ -544,15 +346,11 @@ Open to Opportunities
 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-
 <img src="https://img.shields.io/badge/DynamoDB-102216?style=for-the-badge&logo=amazondynamodb&logoColor=11D452" alt="DynamoDB"/>
 
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-
-<img src="https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white" alt="PlanetScale"/>
 
 <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra"/>
 
@@ -603,8 +401,6 @@ Open to Opportunities
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
 
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 
@@ -678,8 +474,6 @@ Open to Opportunities
 
 <img src="https://img.shields.io/badge/Slack-102216?style=for-the-badge&logo=slack&logoColor=11D452" alt="Slack"/>
 
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp"/>
-
 <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
 
 <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear"/>
@@ -701,8 +495,6 @@ Open to Opportunities
 <img src="https://img.shields.io/badge/Adobe%20XD-102216?style=for-the-badge&logo=adobexd&logoColor=11D452" alt="Adobe XD"/>
 
 <img src="https://img.shields.io/badge/Illustrator-102216?style=for-the-badge&logo=adobeillustrator&logoColor=11D452" alt="Illustrator"/>
-
-<img src="https://img.shields.io/badge/Premiere%20Pro-102216?style=for-the-badge&logo=adobepremierepro&logoColor=11D452" alt="Premiere Pro"/>
 
 <img src="https://img.shields.io/badge/After%20Effects-102216?style=for-the-badge&logo=adobeaftereffects&logoColor=11D452" alt="After Effects"/>
 
@@ -763,94 +555,101 @@ Open to Opportunities
 </p>
 
 <br/>
-
-<!-- ========================================================= -->
-<!--                  ENGINEERING INTERESTS                    -->
-<!-- ========================================================= -->
-
-## 🧩 Engineering Interests
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🏗️ Architecture
-
-Clean Architecture
-
-System Design
-
-Scalability
-
-Maintainability
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔌 APIs
-
-REST
-
-GraphQL
-
-Backend Services
-
-API Design
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️ Infrastructure
-
-Cloud
-
-Docker
-
-CI/CD
-
-Linux
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔐 Security
-
-Secure Coding
-
-Application Security
-
-Secure APIs
-
-Cybersecurity
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
-<!--                    DEVELOPMENT FLOW                        -->
+<!--                    DEVELOPMENT MINDSET                     -->
 <!-- ========================================================= -->
 
 ## ⚡ Development Mindset
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center">
+
+### 💡 UNDERSTAND
+Understand the problem before writing the solution.
+
+</td>
+<td align="center">
+
+### 🧠 THINK
+Question assumptions and think beyond the obvious.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🏗️ BUILD
+Turn ideas into reliable and meaningful software.
+
+</td>
+<td align="center">
+
+### 🧪 TEST
+Validate, debug and learn from every iteration.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔐 SECURE
+Build with security, responsibility and trust in mind.
+
+</td>
+<td align="center">
+
+### 📈 IMPROVE
+Refine what exists and continuously become better.
+
+</td>
+</tr>
+</table>
+
+📊 GitHub Analytics
+
+<p align="left">  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ahamed369&show_icons=true&theme=highcontrast" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahamed369&layout=compact&theme=highcontrast" alt="Top Languages" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahamed369&theme=highcontrast" alt="GitHub Streak" />  
+</p>  <p align="left">  
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+### 🧬 Engineering Philosophy
+
+> **“I don't chase code that merely works; I chase code I can understand, question, refine, and leave better than I found it.”**
+
+`CODE` → `DEBUG` → `TRACE` → `FIX` → `SLEEP` → `REPEAT` ♻️
+
+</div>
+
+<br/>
+  
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                  ENGINEERING WORKFLOW                     -->
+<!-- ========================================================= -->
+
+## ⚡ Engineering Workflow
+
 ```text
                          💡 IDEA
                            │
                            ▼
-                       🧠 PLAN
+                     🧠 UNDERSTAND
+                           │
+                           ▼
+                        💭 THINK
                            │
                            ▼
                        🏗️ DESIGN
@@ -868,9 +667,10 @@ Cybersecurity
                       🚀 DEPLOY
                            │
                            ▼
-                      📊 MONITOR
+                      📊 OBSERVE
                            │
                            ▼
                       📈 IMPROVE
                            │
                            └──────────────► 🔁 ITERATE
+
