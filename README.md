@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Ahamed369">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=11D452&background=10221600&center=true&vCenter=true&width=850&height=60&lines=Computer+Science+Undergraduate;Full-Stack+Developer;Software+Engineer+in+Progress;Building+Scalable+%26+Secure+Software;Java+%7C+JavaScript+%7C+React+%7C+Node.js;Spring+Boot+%7C+Cloud+%7C+DevOps;Cybersecurity+%26+Secure+Software+Development;Learn+%E2%80%A2+Build+%E2%80%A2+Secure+%E2%80%A2+Improve" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=11D452&background=10221600&center=true&vCenter=true&width=850&height=60&lines=Compu[...]"  />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=11D452&background=10221600&center=true&vCenter=true&width=900&height=50&lines=Turning+ideas+into+scalable+software.;Building+with+security%2C+performance+%26+clean+architecture+in+mind.;Always+learning.+Always+building.+Always+improving." alt="About Me Typing"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=11D452&background=10221600&center=true&vCenter=true&width=900&height=50&lines=Tu[...]" />
 </p>
 
 - 🎓 **Computer Science Undergraduate**
@@ -265,10 +265,10 @@
 
 <p align="center">
   <a href="https://github.com/Ahamed369">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ahamed369&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=102216&title_color=11d452&text_color=ffffff&icon_color=11d452" alt="GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ahamed369&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=102[...]"/>
   </a>
   <a href="https://github.com/Ahamed369">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamed369&layout=donut&langs_count=8&hide_border=true&bg_color=102216&title_color=11d452&text_color=ffffff" alt="Top Languages"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamed369&layout=donut&langs_count=8&hide_border=true&bg_color=102216&title_color=11d452&text_color=fffff[...]"/>
   </a>
 </p>
 
@@ -277,7 +277,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahamed369&theme=highcontrast&hide_border=true&background=102216&ring=11D452&fire=11D452&currStreakLabel=11D452&sideLabels=11D452&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Ahamed369&theme=highcontrast&hide_border=true&background=102216&ring=11D452&fire=11D452&currStreakLabel=11D452&sideLabels=11D452&dates=FFFFFF&cu[...]"/>
 </p>
 
 ---
@@ -285,7 +285,7 @@
 ## 📈 Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahamed369&bg_color=102216&color=11d452&line=11d452&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahamed369&bg_color=102216&color=11d452&line=11d452&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20A[...]"/>
 </p>
 
 ---
@@ -293,7 +293,12 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahamed369/Ahamed369/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  Contribution snake image currently missing — the file output/github-contribution-grid-snake-dark.svg is not in the repository, so the image link was broken. To restore this image either:
+  
+  1. Generate the SVG using your contribution-snake generator and commit it at output/github-contribution-grid-snake-dark.svg, or
+  2. Replace the img tag here with a hosted SVG URL.
+
+  I removed the broken image tag to prevent the README from showing a broken image icon.
 </p>
 
 ---
@@ -330,3 +335,5 @@
 │   🚀 Software Engineering                                     │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
+
+```
