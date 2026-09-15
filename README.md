@@ -2,23 +2,35 @@
 <!--                 MR. AHAMED | GITHUB PROFILE               -->
 <!-- ========================================================= -->
 
+<br/>
+
 <div align="center">
 
-<!-- ======================= TYPING HEADER ======================= -->
+<!-- ======================= ANIMATED GLOW HALO (TOP) ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=850&color=11D452&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Mr.+Ahamed;Computer+Science+Undergraduate+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%9A%80;Building+Scalable+%26+Secure+Software;Backend+%7C+Cloud+%7C+DevOps+%7C+Security;Turning+Ideas+Into+Real+Software;Always+Learning%2C+Building+%26+Improving;Open+to+Software+Engineering+Internships;Looking+Forward+to+New+Opportunities;Learn+%E2%80%A2+Build+%E2%80%A2+Secure+%E2%80%A2+Improve" alt="Typing Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:11D452,100:000000&height=90&section=header&animation=fading" width="100%" alt="Glow Halo Top"/>
+
+<!-- ======================= NAME HEADER (TYPES ONCE) ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=32&duration=1500&pause=999999&color=11D452&center=true&vCenter=true&width=400&height=60&lines=Hi%2C+I%27m+%F0%9F%91%8B" alt="Hi, I'm"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102216,50:102216,100:11D452&height=120&section=header&text=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20SECURE%20%E2%80%A2%20IMPROVE&fontColor=11D452&fontSize=23&fontAlignY=65" width="100%" alt="Animated Banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=65&duration=1500&pause=999999&color=11D452&center=true&vCenter=true&width=700&height=90&lines=MR.+AHAMED" alt="MR. AHAMED"/>
 
-<h3>
-🎓 Computer Science Undergraduate
-&nbsp; | &nbsp;
-💻 Full-Stack Developer
-&nbsp; | &nbsp;
-🚀 Aspiring Software Engineer
-</h3>
+<!-- ======================= ANIMATED GLOW HALO (BOTTOM) ======================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:11D452,100:000000&height=90&section=footer&animation=fading" width="100%" alt="Glow Halo Bottom"/>
+
+<br/>
+
+<!-- ======================= 7 ROLE POINTS (TYPING - LOOPING) ======================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=700&color=11D452&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Web+Developer+%F0%9F%8C%90;Aspiring+Software+Engineer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F" alt="Role Typing Animation"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102216,50:102216,100:11D452&height=120&section=header&text=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20SECURE%20%E2%80%A2%20IMPROVE&fontColor=11D452&fontSize=23&fontAlignY=65&animation=twinkling" width="100%" alt="Animated Banner"/>
 
 <p>
 <strong>💼 Open to Software Engineering / Full-Stack Development Internship Opportunities</strong>
@@ -30,6 +42,9 @@ Building scalable, secure and user-focused software while continuously
 learning modern software engineering practices.
 </em>
 </p>
+
+<!-- Animated Snake Divider -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 
 </div>
 
@@ -117,12 +132,13 @@ I enjoy exploring software from the frontend to backend services, databases, inf
 
 - 🎓 <strong>Computer Science Undergraduate</strong>
 - 💻 <strong>Full-Stack Developer</strong>
+- 🎨 <strong>UI/UX Designer</strong>
+- 🌐 <strong>Web Developer</strong>
 - 🚀 <strong>Aspiring Software Engineer</strong>
-- 🌐 <strong>Web & Backend Development</strong>
+- 🔐 <strong>Cybersecurity Enthusiast</strong>
+- ☁️ <strong>Cloud & DevOps Explorer</strong>
 - 🗄️ <strong>Database & API Development</strong>
 - 🧩 <strong>Software Architecture & System Design</strong>
-- ☁️ <strong>Cloud & DevOps Explorer</strong>
-- 🔐 <strong>Cybersecurity Enthusiast</strong>
 - 🧠 <strong>Problem-Solving Mindset</strong>
 - 🤝 <strong>Open to Collaboration</strong>
 - 🌱 <strong>Always Learning & Building</strong>
@@ -205,6 +221,26 @@ I enjoy exploring software from the frontend to backend services, databases, inf
 </table>
 
 </div>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                    FOCUS AREAS CHART                       -->
+<!-- ========================================================= -->
+
+## 📊 Focus Areas Overview
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#102216','primaryTextColor':'#11D452','primaryBorderColor':'#11D452','lineColor':'#11D452','secondaryColor':'#0a1a0f','tertiaryColor':'#102216','fontFamily':'JetBrains Mono'}}}%%
+pie showData
+    title Skill Distribution
+    "Full-Stack Development" : 30
+    "Backend & APIs" : 20
+    "Cloud & DevOps" : 15
+    "Databases" : 15
+    "Security" : 10
+    "System Design" : 10
+```
 
 <br/>
 
@@ -555,6 +591,187 @@ I enjoy exploring software from the frontend to backend services, databases, inf
 </p>
 
 <br/>
+
+<!-- ========================================================= -->
+<!--                      CORE SKILLS                           -->
+<!-- ========================================================= -->
+
+## 🧩 Core Skills
+
+### 💻 Programming Languages
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Java-102216?style=for-the-badge&logo=openjdk&logoColor=11D452" alt="Java"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+
+</p>
+
+<br/>
+
+### 🎨 Frontend Development
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+
+<img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11D452" alt="CSS3"/>
+
+<img src="https://img.shields.io/badge/AJAX-102216?style=for-the-badge&logo=jquery&logoColor=11D452" alt="AJAX"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+
+</p>
+
+<br/>
+
+### ⚙️ Backend & Frameworks
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+
+<img src="https://img.shields.io/badge/Express.js-0A0A0A?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+
+</p>
+
+<br/>
+
+### 🗄️ Databases
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+
+</p>
+
+<br/>
+
+### 🔐 APIs & Security
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/RESTful%20APIs-102216?style=for-the-badge&logo=fastapi&logoColor=11D452" alt="RESTful APIs"/>
+
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+
+<img src="https://img.shields.io/badge/Authentication-102216?style=for-the-badge&logo=auth0&logoColor=11D452" alt="Authentication"/>
+
+<img src="https://img.shields.io/badge/Authorisation-102216?style=for-the-badge&logo=auth0&logoColor=11D452" alt="Authorisation"/>
+
+<img src="https://img.shields.io/badge/RBAC-102216?style=for-the-badge&logo=auth0&logoColor=11D452" alt="Role-Based Access Control"/>
+
+</p>
+
+<br/>
+
+### 📱 Mobile & Desktop Development
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+
+<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK"/>
+
+<img src="https://img.shields.io/badge/Java%20Swing-102216?style=for-the-badge&logo=openjdk&logoColor=11D452" alt="Java Swing"/>
+
+</p>
+
+<br/>
+
+### 🛡️ Application Security
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+
+<img src="https://img.shields.io/badge/Penetration%20Testing-102216?style=for-the-badge&logo=hackthebox&logoColor=11D452" alt="Penetration Testing"/>
+
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-102216?style=for-the-badge&logo=bugcrowd&logoColor=11D452" alt="Vulnerability Assessment"/>
+
+</p>
+
+<br/>
+
+### 🔧 Tools, DevOps & Version Control
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+
+</p>
+
+<br/>
+
+### 🧠 Software Engineering & Methodologies
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/OOP-102216?style=for-the-badge&logo=codecademy&logoColor=11D452" alt="Object-Oriented Programming"/>
+
+<img src="https://img.shields.io/badge/DSA-102216?style=for-the-badge&logo=leetcode&logoColor=11D452" alt="Data Structures & Algorithms"/>
+
+<img src="https://img.shields.io/badge/MVC%20Architecture-102216?style=for-the-badge&logo=dotnet&logoColor=11D452" alt="MVC Architecture"/>
+
+<img src="https://img.shields.io/badge/Requirements%20Analysis-102216?style=for-the-badge&logo=target&logoColor=11D452" alt="Requirements Analysis"/>
+
+<img src="https://img.shields.io/badge/Agile%2FScrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile/Scrum"/>
+
+</p>
+
+<br/>
+
+### 📊 Skill Coverage Overview
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#102216','primaryTextColor':'#11D452','primaryBorderColor':'#11D452','lineColor':'#11D452','fontFamily':'JetBrains Mono'}}}%%
+pie showData
+    title Core Skills Distribution
+    "Programming Languages" : 5
+    "Frontend Development" : 6
+    "Backend & Frameworks" : 4
+    "Databases" : 3
+    "APIs & Security" : 6
+    "Mobile & Desktop" : 3
+    "Application Security" : 3
+    "Tools & DevOps" : 6
+    "Software Engineering" : 5
+```
+
+<br/>
+
+<!-- ========================================================= -->
 <!--                    DEVELOPMENT MINDSET                     -->
 <!-- ========================================================= -->
 
@@ -609,15 +826,23 @@ Refine what exists and continuously become better.
 </tr>
 </table>
 
-📊 GitHub Analytics
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                        -->
+<!-- ========================================================= -->
+
+## 📊 GitHub Analytics
 
 <p align="left">  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ahamed369&show_icons=true&theme=highcontrast" alt="GitHub Stats" />  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahamed369&layout=compact&theme=highcontrast" alt="Top Languages" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahamed369&theme=highcontrast" alt="GitHub Streak" />  
-</p>  <p align="left">  
+</p>
 
-<br/>
+<p align="left">  
 
 <br/>
 
@@ -632,45 +857,70 @@ Refine what exists and continuously become better.
 </div>
 
 <br/>
-  
+
+<!-- ========================================================= -->
+<!--                    CODE CYCLE ANIMATION                    -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=500&color=11D452&center=true&vCenter=true&width=800&lines=CODE+%E2%86%92+DEBUG+%E2%86%92+TRACE+%E2%86%92+FIX+%E2%86%92+SLEEP+%E2%86%92+REPEAT+%E2%99%BB%EF%B8%8F;Never+Stop+Learning+%F0%9F%93%9A;Never+Stop+Building+%F0%9F%9B%A0%EF%B8%8F" alt="Code Cycle"/>
+</p>
 
 <br/>
 
 <!-- ========================================================= -->
-<!--                  ENGINEERING WORKFLOW                     -->
+<!--                  WORKFLOW FLOWCHART                       -->
 <!-- ========================================================= -->
 
-## ⚡ Engineering Workflow
+## ⚡ Workflow Visualized
 
-```text
-                         💡 IDEA
-                           │
-                           ▼
-                     🧠 UNDERSTAND
-                           │
-                           ▼
-                        💭 THINK
-                           │
-                           ▼
-                       🏗️ DESIGN
-                           │
-                           ▼
-                       💻 BUILD
-                           │
-                           ▼
-                       🧪 TEST
-                           │
-                           ▼
-                      🔐 SECURE
-                           │
-                           ▼
-                      🚀 DEPLOY
-                           │
-                           ▼
-                      📊 OBSERVE
-                           │
-                           ▼
-                      📈 IMPROVE
-                           │
-                           └──────────────► 🔁 ITERATE
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#102216','primaryTextColor':'#11D452','primaryBorderColor':'#11D452','lineColor':'#11D452','fontFamily':'JetBrains Mono'}}}%%
+flowchart TD
+    A["💡 IDEA"] --> B["🧠 UNDERSTAND"]
+    B --> C["💭 THINK"]
+    C --> D["🏗️ DESIGN"]
+    D --> E["💻 BUILD"]
+    E --> F["🧪 TEST"]
+    F --> G["🔐 SECURE"]
+    G --> H["🚀 DEPLOY"]
+    H --> I["📊 OBSERVE"]
+    I --> J["📈 IMPROVE"]
+    J -->|🔁 ITERATE| B
+```
 
+<br/>
+
+<!-- ========================================================= -->
+<!--                       FOOTER                               -->
+<!-- ========================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102216,50:102216,100:11D452&height=120&section=footer&text=Thanks%20for%20Visiting!&fontColor=11D452&fontSize=28&fontAlignY=70" width="100%" alt="Footer"/>
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Amazing Together
+
+<p>
+<em>Learn • Build • Secure • Improve</em>
+</p>
+
+<a href="mailto:ahamedrock369@gmail.com">
+<img src="https://img.shields.io/badge/Say%20Hello-102216?style=for-the-badge&logo=gmail&logoColor=11D452" alt="Say Hello"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ahamed369&label=PROFILE%20VIEWS&color=11D452&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--               MADE WITH PASSION BY AHAMED                  -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <sub>💚 Crafted with <strong>passion</strong>, <strong>precision</strong> & <strong>purpose</strong> by <strong>Mr. Ahamed</strong></sub>
+</p>
