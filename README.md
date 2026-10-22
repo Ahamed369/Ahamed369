@@ -6,6 +6,10 @@
 
 <div align="center">
 
+<!-- ======================= WELCOME WAVE (NEW) ======================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:102216,100:11D452&height=170&section=header&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=40&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20CS%20Undergraduate%20%E2%80%A2%20Sri%20Lanka&descSize=16&descAlignY=55&animation=twinkling" width="100%" alt="Welcome Banner"/>
+
 <!-- ======================= ANIMATED GLOW HALO (TOP) ======================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:11D452,100:000000&height=90&section=header&animation=fading" width="100%" alt="Glow Halo Top"/>
@@ -43,8 +47,35 @@ learning modern software engineering practices.
 </em>
 </p>
 
-<!-- Animated Snake Divider -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+<p>
+<img src="https://img.shields.io/badge/Kandy%2C%20Sri%20Lanka-102216?style=for-the-badge&logo=googlemaps&logoColor=11D452" alt="Location"/>
+<img src="https://img.shields.io/badge/SLIIT%20%E2%80%A2%20BSc%20(Hons)%20CS-102216?style=for-the-badge&logo=bookstack&logoColor=11D452" alt="University"/>
+<img src="https://img.shields.io/badge/Open%20to%20IT%20Internships-11D452?style=for-the-badge&logo=rocket&logoColor=102216" alt="Open to Internships"/>
+</p>
+
+<table>
+<tr>
+<td>🔭 <strong>Currently building:</strong> full-stack web apps with React, Node.js and MySQL</td>
+</tr>
+<tr>
+<td>🌱 <strong>Currently learning:</strong> TypeScript, cloud deployment and AI integrations</td>
+</tr>
+<tr>
+<td>💬 <strong>Ask me about:</strong> React, Node.js, Java, PHP, Android and application security</td>
+</tr>
+<tr>
+<td>⚡ <strong>Fun fact:</strong> I also run a technology retail business since 2021</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Animated Snake Divider (generated daily from MY contributions by .github/workflows/contribution-games.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahamed369/Ahamed369/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahamed369/Ahamed369/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Ahamed369/Ahamed369/output/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</picture>
 
 </div>
 
@@ -60,8 +91,12 @@ learning modern software engineering practices.
 <img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11D452" alt="GitHub"/>
 </a>
 
-<a href="https://linkedin.com/in/Mr.Ahamed">
+<a href="https://www.linkedin.com/in/mr-ahamed369">
 <img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11D452" alt="LinkedIn"/>
+</a>
+
+<a href="https://m-r-ahamed-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-102216?style=for-the-badge&logo=vercel&logoColor=11D452" alt="Portfolio"/>
 </a>
 
 <a href="mailto:ahamedrock369@gmail.com">
@@ -155,6 +190,76 @@ I enjoy exploring software from the frontend to backend services, databases, inf
 <br/>
 
 <!-- ========================================================= -->
+<!--                    CAREER DIRECTION                        -->
+<!-- ========================================================= -->
+
+## 🎯 Career Direction
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 💻 Software Engineering
+
+Full-Stack Development
+
+Backend Engineering
+
+REST APIs
+
+GraphQL
+
+System Design
+
+Clean Architecture
+
+</td>
+
+<td width="33%" align="center">
+
+### ☁️ Cloud & DevOps
+
+Cloud Computing
+
+Linux
+
+Docker
+
+Kubernetes
+
+CI/CD
+
+Infrastructure
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔐 Security
+
+Cybersecurity
+
+Secure Software
+
+Application Security
+
+Secure APIs
+
+Security Fundamentals
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
 <!--                    INTERNSHIP STATUS                       -->
 <!-- ========================================================= -->
 
@@ -174,7 +279,158 @@ I enjoy exploring software from the frontend to backend services, databases, inf
 <img src="https://img.shields.io/badge/CONTACT%20ME-FOR%20INTERNSHIP-102216?style=for-the-badge&logo=gmail&logoColor=11D452" alt="Contact Me"/>
 </a>
 
+<a href="https://www.linkedin.com/in/mr-ahamed369">
+<img src="https://img.shields.io/badge/HIRE%20ME-ON%20LINKEDIN-102216?style=for-the-badge&logo=linkedin&logoColor=11D452" alt="Hire Me on LinkedIn"/>
+</a>
+
+<a href="https://m-r-ahamed-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/VIEW-MY%20WORK-102216?style=for-the-badge&logo=vercel&logoColor=11D452" alt="View My Work"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=11D452&center=true&vCenter=true&width=700&lines=Available+for+IT+%2F+Software+Engineering+Internships+%F0%9F%9A%80;Ready+to+learn%2C+contribute+and+grow+%F0%9F%8C%B1;Let%27s+build+something+great+together+%F0%9F%A4%9D" alt="Internship Typing Animation"/>
+
 </div>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                    FEATURED PORTFOLIO                      -->
+<!-- ========================================================= -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102216,50:11D452,100:102216&height=120&section=header&text=FEATURED%20WORK&fontColor=ffffff&fontSize=30&fontAlignY=38&animation=fadeIn&desc=&descAlignY=60" width="100%" alt="FEATURED WORK Banner"/>
+</div>
+
+## 🌐 Featured Portfolio
+
+<div align="center">
+
+<p>
+<strong>🖥️ Explore my interactive macOS-inspired developer portfolio, built with React, TypeScript and Vite.</strong>
+</p>
+
+<a href="https://m-r-ahamed-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/VISIT-LIVE%20PORTFOLIO-11D452?style=for-the-badge&logo=vercel&logoColor=11D452&labelColor=102216" alt="Visit Live Portfolio"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                       -->
+<!-- ========================================================= -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Code</th>
+</tr>
+<tr>
+<td><strong>🍽️ Ember Restaurant POS System</strong></td>
+<td>Offline restaurant point-of-sale system with role-based access, payments, inventory and sales reporting.</td>
+<td>Python • Tkinter • SQLite</td>
+<td align="center"><a href="https://github.com/Ahamed369/Restaurant-POS-System"><img src="https://img.shields.io/badge/View-102216?style=for-the-badge&logo=github&logoColor=11D452" alt="View on GitHub"/></a></td>
+</tr>
+<tr>
+<td><strong>🌦️ Fidenz Weather App</strong></td>
+<td>Full-stack weather application with a custom Comfort Index engine, Auth0 authentication and an interactive dashboard.</td>
+<td>React.js • Node.js • Express.js • Vite • Auth0</td>
+<td align="center"><a href="https://github.com/Ahamed369/Fidenz-Weather-App"><img src="https://img.shields.io/badge/View-102216?style=for-the-badge&logo=github&logoColor=11D452" alt="View on GitHub"/></a></td>
+</tr>
+<tr>
+<td><strong>🚗 High Street Car Sale</strong></td>
+<td>Full-stack vehicle marketplace with advanced search, buyer and seller dashboards and admin tools.</td>
+<td>React.js • Vite • Node.js • Express.js • MySQL • JWT</td>
+<td align="center"><a href="https://github.com/MohomedAmri05/Team-Xcelerate"><img src="https://img.shields.io/badge/View-102216?style=for-the-badge&logo=github&logoColor=11D452" alt="View on GitHub"/></a></td>
+</tr>
+<tr>
+<td><strong>🏋️ Health Forge Fitness</strong></td>
+<td>Full-stack fitness e-commerce website with an admin dashboard and Stripe payment integration.</td>
+<td>PHP • MySQL • JavaScript • Bootstrap • Stripe</td>
+<td align="center"><a href="https://github.com/Ahamed369/HealthForge-Fitness-Web-Application"><img src="https://img.shields.io/badge/View-102216?style=for-the-badge&logo=github&logoColor=11D452" alt="View on GitHub"/></a></td>
+</tr>
+<tr>
+<td><strong>💰 Student Expense Tracker</strong></td>
+<td>Android expense tracker with budgets, overspending alerts, currency conversion and spending charts.</td>
+<td>Java • Android Studio • SQLite • MPAndroidChart</td>
+<td align="center"><a href="https://github.com/Ahamed369/Student-Expense-Tracker"><img src="https://img.shields.io/badge/View-102216?style=for-the-badge&logo=github&logoColor=11D452" alt="View on GitHub"/></a></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                        MY JOURNEY                          -->
+<!-- ========================================================= -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102216,50:11D452,100:102216&height=120&section=header&text=MY%20JOURNEY&fontColor=ffffff&fontSize=30&fontAlignY=38&animation=fadeIn&desc=&descAlignY=60" width="100%" alt="MY JOURNEY Banner"/>
+</div>
+
+## 🗺️ My Journey
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#102216','primaryTextColor':'#11D452','primaryBorderColor':'#11D452','lineColor':'#11D452','fontFamily':'JetBrains Mono'}}}%%
+timeline
+    title From School to Software Engineering
+    2018 : 🎓 GCE O/L – English Medium
+    2019 : 💻 Diploma in Information Technology – ESOFT : 🗣️ Diploma in English – ESOFT
+    2021 : 🚀 Started my technology retail business
+    2022 : 📘 GCE A/L – Commerce Stream
+    2024 : 🎓 Began HDIT at SLIIT Kandy UNI : 👥 Batch Representative
+    2026 : 🛠️ Built web, mobile and desktop projects
+    2027 : 🎯 BSc (Hons) Computer Science – Expected
+```
+
+<br/>
+
+### 📈 Projects by Platform
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#102216','primaryTextColor':'#11D452','primaryBorderColor':'#11D452','lineColor':'#11D452','fontFamily':'JetBrains Mono'}}}%%
+pie showData
+    title Featured Projects by Platform
+    "Web Applications" : 3
+    "Android Mobile" : 1
+    "Desktop (Python)" : 1
+```
+
+<br/>
+
+### 📊 Technologies Used per Project
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#102216','primaryTextColor':'#11D452','primaryBorderColor':'#11D452','lineColor':'#11D452','fontFamily':'JetBrains Mono','xyChart':{'plotColorPalette':'#11D452, #7CFFB2','titleColor':'#11D452','xAxisLabelColor':'#ffffff','yAxisLabelColor':'#ffffff','xAxisTitleColor':'#11D452','yAxisTitleColor':'#11D452'}}}}%%
+xychart-beta
+    title "Technologies Used per Project"
+    x-axis ["Ember POS", "Fidenz", "High Street", "Health Forge", "Expense Tracker"]
+    y-axis "Technologies" 0 --> 12
+    bar [5, 9, 10, 8, 7]
+```
+
+<br/>
+
+### 📈 Project Growth in 2026
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#102216','primaryTextColor':'#11D452','primaryBorderColor':'#11D452','lineColor':'#11D452','fontFamily':'JetBrains Mono','xyChart':{'plotColorPalette':'#11D452, #7CFFB2','titleColor':'#11D452','xAxisLabelColor':'#ffffff','yAxisLabelColor':'#ffffff','xAxisTitleColor':'#11D452','yAxisTitleColor':'#11D452'}}}}%%
+xychart-beta
+    title "Projects Completed in 2026 (Cumulative)"
+    x-axis [Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct]
+    y-axis "Projects" 0 --> 6
+    line [0, 0, 0, 0, 1, 1, 1, 1, 5]
+```
 
 <br/>
 
@@ -248,7 +504,16 @@ pie showData
 <!--                         TECH STACK                         -->
 <!-- ========================================================= -->
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102216,50:11D452,100:102216&height=120&section=header&text=TECH%20STACK&fontColor=ffffff&fontSize=30&fontAlignY=38&animation=fadeIn&desc=&descAlignY=60" width="100%" alt="TECH STACK Banner"/>
+</div>
+
 # 💻 Tech Stack
+
+<details open>
+<summary><b>🧰 My full Tech Stack (100+ technologies) – click to collapse or expand</b></summary>
+
+<br/>
 
 <!-- ========================================================= -->
 <!--                      FRONTEND                              -->
@@ -592,6 +857,10 @@ pie showData
 
 <br/>
 
+</details>
+
+<br/>
+
 <!-- ========================================================= -->
 <!--                      CORE SKILLS                           -->
 <!-- ========================================================= -->
@@ -611,6 +880,8 @@ pie showData
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 
 </p>
 
@@ -632,6 +903,10 @@ pie showData
 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+
+<img src="https://img.shields.io/badge/Responsive%20Web%20Design-102216?style=for-the-badge&logo=css3&logoColor=11D452" alt="Responsive Web Design"/>
+
 </p>
 
 <br/>
@@ -647,6 +922,8 @@ pie showData
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 
 <img src="https://img.shields.io/badge/Express.js-0A0A0A?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"/>
 
 </p>
 
@@ -682,6 +959,12 @@ pie showData
 
 <img src="https://img.shields.io/badge/RBAC-102216?style=for-the-badge&logo=auth0&logoColor=11D452" alt="Role-Based Access Control"/>
 
+<img src="https://img.shields.io/badge/WebSockets-102216?style=for-the-badge&logo=socketdotio&logoColor=11D452" alt="WebSockets"/>
+
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+
+<img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"/>
+
 </p>
 
 <br/>
@@ -695,6 +978,10 @@ pie showData
 <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK"/>
 
 <img src="https://img.shields.io/badge/Java%20Swing-102216?style=for-the-badge&logo=openjdk&logoColor=11D452" alt="Java Swing"/>
+
+<img src="https://img.shields.io/badge/XML-102216?style=for-the-badge&logo=xml&logoColor=11D452" alt="XML"/>
+
+<img src="https://img.shields.io/badge/Tkinter-102216?style=for-the-badge&logo=python&logoColor=11D452" alt="Tkinter"/>
 
 </p>
 
@@ -730,6 +1017,14 @@ pie showData
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 
+<img src="https://img.shields.io/badge/Katalon%20Studio-102216?style=for-the-badge&logo=katalon&logoColor=11D452" alt="Katalon Studio"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
+
 </p>
 
 <br/>
@@ -748,6 +1043,12 @@ pie showData
 
 <img src="https://img.shields.io/badge/Agile%2FScrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile/Scrum"/>
 
+<img src="https://img.shields.io/badge/Database%20Design-102216?style=for-the-badge&logo=databricks&logoColor=11D452" alt="Database Design"/>
+
+<img src="https://img.shields.io/badge/Software%20Testing-102216?style=for-the-badge&logo=testinglibrary&logoColor=11D452" alt="Software Testing"/>
+
+<img src="https://img.shields.io/badge/IT%20Support%20%26%20Troubleshooting-102216?style=for-the-badge&logo=wrench&logoColor=11D452" alt="IT Support & Troubleshooting"/>
+
 </p>
 
 <br/>
@@ -758,16 +1059,90 @@ pie showData
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#102216','primaryTextColor':'#11D452','primaryBorderColor':'#11D452','lineColor':'#11D452','fontFamily':'JetBrains Mono'}}}%%
 pie showData
     title Core Skills Distribution
-    "Programming Languages" : 5
-    "Frontend Development" : 6
-    "Backend & Frameworks" : 4
+    "Programming Languages" : 6
+    "Frontend Development" : 8
+    "Backend & Frameworks" : 5
     "Databases" : 3
-    "APIs & Security" : 6
-    "Mobile & Desktop" : 3
+    "APIs & Security" : 9
+    "Mobile & Desktop" : 5
     "Application Security" : 3
-    "Tools & DevOps" : 6
-    "Software Engineering" : 5
+    "Tools & DevOps" : 10
+    "Software Engineering" : 8
 ```
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                  ENGINEERING INTERESTS                     -->
+<!-- ========================================================= -->
+
+## 🧩 Engineering Interests
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🏗️ Architecture
+
+Clean Architecture
+
+System Design
+
+Scalability
+
+Maintainability
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔌 APIs
+
+REST
+
+GraphQL
+
+Backend Services
+
+API Design
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️ Infrastructure
+
+Cloud
+
+Docker
+
+CI/CD
+
+Linux
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐 Security
+
+Secure Coding
+
+Application Security
+
+Secure APIs
+
+Cybersecurity
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -834,12 +1209,16 @@ Refine what exists and continuously become better.
 <!--                    GITHUB ANALYTICS                        -->
 <!-- ========================================================= -->
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102216,50:11D452,100:102216&height=120&section=header&text=GITHUB%20STATS&fontColor=ffffff&fontSize=30&fontAlignY=38&animation=fadeIn&desc=&descAlignY=60" width="100%" alt="GITHUB STATS Banner"/>
+</div>
+
 ## 📊 GitHub Analytics
 
 <p align="left">  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ahamed369&show_icons=true&theme=highcontrast" alt="GitHub Stats" />  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahamed369&layout=compact&theme=highcontrast" alt="Top Languages" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahamed369&theme=highcontrast" alt="GitHub Streak" />  
+  <img src="https://streak-stats.demolab.com/?user=Ahamed369&theme=highcontrast" alt="GitHub Streak" />  
 </p>
 
 <p align="left">  
@@ -869,6 +1248,46 @@ Refine what exists and continuously become better.
 <br/>
 
 <!-- ========================================================= -->
+<!--                   CONTRIBUTION ARCADE                      -->
+<!-- ========================================================= -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102216,50:11D452,100:102216&height=120&section=header&text=CONTRIBUTION%20ARCADE&fontColor=ffffff&fontSize=30&fontAlignY=38&animation=fadeIn&desc=&descAlignY=60" width="100%" alt="CONTRIBUTION ARCADE Banner"/>
+</div>
+
+## 🎮 Contribution Arcade
+
+<div align="center">
+
+<p><em>👾 Pac-Man eating my real GitHub contributions, regenerated every day.</em></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahamed369/Ahamed369/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahamed369/Ahamed369/output/pacman-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/Ahamed369/Ahamed369/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                  3D CONTRIBUTION SKYLINE                   -->
+<!-- ========================================================= -->
+
+## 🏙️ 3D Contribution Skyline
+
+<div align="center">
+
+<p><em>🌃 My yearly contributions as an animated 3D city.</em></p>
+
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Skyline" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
 <!--                  WORKFLOW FLOWCHART                       -->
 <!-- ========================================================= -->
 
@@ -892,10 +1311,55 @@ flowchart TD
 <br/>
 
 <!-- ========================================================= -->
+<!--                         FUN ZONE                           -->
+<!-- ========================================================= -->
+
+## 😄 Fun Zone
+
+<details>
+<summary><b>💬 Click for a random dev quote & joke</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=11D452&authorColor=11D452&symbolColor=11D452&backgroundColor=102216" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23102216&textColor=%23ffffff&qColor=%2311D452&aColor=%2311D452&borderColor=%2311D452&codeColor=%2311D452" alt="Random Dev Joke"/>
+
+</div>
+
+</details>
+
+<!--
+================ 🎧 NOW PLAYING (SPOTIFY) – OPTIONAL ================
+Needs a one-time Spotify setup first (see SETUP-GUIDE.md, Step 5).
+After setup, delete this comment's first and last lines to show it:
+
+## 🎧 Now Playing
+<div align="center">
+<a href="https://open.spotify.com"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&border_radius=15&bar_color=11D452" alt="Spotify Now Playing"/></a>
+</div>
+
+================ ⏱️ CODING TIME (WAKATIME) – OPTIONAL ================
+Needs a free WakaTime account first (see SETUP-GUIDE.md, Step 6).
+After setup, replace YOUR_WAKATIME_USERNAME and delete these comment lines:
+
+## ⏱️ Weekly Coding Time
+<div align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=highcontrast" alt="WakaTime Stats"/>
+</div>
+-->
+
+<br/>
+
+<!-- ========================================================= -->
 <!--                       FOOTER                               -->
 <!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102216,50:102216,100:11D452&height=120&section=footer&text=Thanks%20for%20Visiting!&fontColor=11D452&fontSize=28&fontAlignY=70" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11D452,50:102216,100:000000&height=180&section=footer&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=38&fontAlignY=68&animation=twinkling" width="100%" alt="Footer"/>
 
 <div align="center">
 
@@ -905,8 +1369,32 @@ flowchart TD
 <em>Learn • Build • Secure • Improve</em>
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=11D452&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+%F0%9F%92%9A;Open+to+internships+and+collaborations+%F0%9F%9A%80;Feel+free+to+reach+out+anytime+%F0%9F%93%A9" alt="Thank You Typing Animation"/>
+
+<br/>
+
+<a href="https://github.com/Ahamed369">
+<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11D452" alt="GitHub"/>
+</a>
+<a href="https://instagram.com/__mr.ahamed__">
+<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11D452" alt="Instagram"/>
+</a>
+<a href="https://threads.net/@__mr.ahamed__">
+<img src="https://img.shields.io/badge/Threads-102216?style=for-the-badge&logo=threads&logoColor=11D452" alt="Threads"/>
+</a>
+
+<br/><br/>
+
 <a href="mailto:ahamedrock369@gmail.com">
 <img src="https://img.shields.io/badge/Say%20Hello-102216?style=for-the-badge&logo=gmail&logoColor=11D452" alt="Say Hello"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mr-ahamed369">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11D452" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="https://m-r-ahamed-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/View%20Portfolio-102216?style=for-the-badge&logo=vercel&logoColor=11D452" alt="View Portfolio"/>
 </a>
 
 <br/><br/>
